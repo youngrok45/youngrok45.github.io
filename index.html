@@ -4,7 +4,7 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: single
 author_profile: true
-title: "Welcome to Mr. Funnybunny's Home!"
+title: "Welcome to Youngrok's Home!"
 toc: true
 toc_label: "ToC"
 toc_icon: "cog"
@@ -38,5 +38,29 @@ toc_sticky: true
 
 <br>
 <p>
-Hello! I'm Young Rok Lee!
+Hello! I'm Young Rok Lee.
 </p>
+
+<p>
+Welcome to my blog! I'm excited to share my thoughts and insights with you.
+</p>
+
+<p>
+I've spent years writing articles, essays, and books, and I'm eager to organize and share some of my work here. In the future, I plan to write new blog posts on a variety of topics.
+</p>
+
+<p>
+I hope you'll find my blog informative and engaging. Thank you for visiting!
+</p>
+
+
+<!-- BLOG -->
+<h1 id="blog">Most recent blog posts</h1>
+<ul>
+	{% for post in site.posts limit:5 %}
+		<li>
+			<a href="{{ post.url }}">{{ post.title }}</a>
+		</li>
+	{% endfor %}
+</ul>
+

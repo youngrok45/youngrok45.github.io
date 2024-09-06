@@ -15,17 +15,22 @@
   --h3-font-size: 1.2em;
 
   --p-width: 72ch;
+  /*
   --h1-max-width: 36.67ch;
   --h2-max-width: 42.31ch;
   --h3-max-width: 45.83ch;
+  */
+  --h1-max-width: 72ch;
+  --h2-max-width: 72ch;
+  --h3-max-width: 72ch;
 }
 
 li {
-  max-width: 62ch;
+  max-width: 67ch;
 }
 
 blockquote {
-  max-width: 53ch;
+  max-width: 67ch;
 }
 
 

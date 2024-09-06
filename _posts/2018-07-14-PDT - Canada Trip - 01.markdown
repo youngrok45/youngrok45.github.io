@@ -47,7 +47,7 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 
 4일 째인 <7월 17일>에는 서은이가 방학 중 다니고 있는 Richmond Community Center의 미술캠프에 서은이를 데려다 주고, 서은이 엄마랑 작년에도 가봤던 Community Center 인근 Timhorten coffee 카페에 가서 커피도 마시면서 여유를 부려봤다. 서은이 수업 끝날 때맞춰서 함께 작년에도 몇 번 들렀던 Steveston 바닷가 피자가게에서 피시 앤 칩스를 픽해 왔다. 수영이가 ‘인생 피자’라고 극찬했던 그 피자다. 수영이가 함께하지 못해 아쉬웠다.
 
-<img src="/assets/images/pizza.png">
+<img src="/assets/images/canada-2019/pizza.png">
 
 <br>
     
@@ -76,6 +76,12 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 집에 돌아오는 길에 소화도 시킬 겸해서 Thompson Community Center에 들러 가볍게 산책을 했다. 채원이와 서은이는 놀이기구 등을 타면서 둘이서 신나게 놀았다.
 
 다시 집에 돌아와 쉬다가 일몰 시간 직전에 맞춰서(일몰시각은 밤 9시 전후다.) sunset으로 유명하다는 Gary Point Park를 찾았다. 서은네 집에서 자동차로 15분 내외 거리에 있었다. 차 탈 사람은 7명인데 자동차가 1대 뿐이어서 가영이가 두 번씩 셔틀버스 기사 노릇을 해야 했다. 해 저무는 주변 풍광은 근사했지만 구름이 잔뜩 끼어 일몰 순간을 보기 어려운데다 날씨까지 쌀쌀해져서 오래 머물 수 없었다. 제대로 된 낙조 구경은 다음 기회로 미루기로 하고 서둘러 귀가했다. 
+
+<img src="/assets/images/canada-2019/chawon-suheun-01.png">
+
+<img src="/assets/images/canada-2019/chawon-suheun-02.png">
+
+<img src="/assets/images/canada-2019/gary-point-park.png">
 
 밴쿠버 공항 남쪽, 리치몬드의 남서쪽 Chatham지구와 Moncton Street 사이의 Steveston Village 역사촌에 있는 Gary Point Park에서는 비행기들이 쉼 없이 오르락내리락 하는 모습을 볼 수 있고, 해질녘이면 하늘이 곱게 물들어 아름다운 일몰을 구경할 수 있다는 곳이다.
 

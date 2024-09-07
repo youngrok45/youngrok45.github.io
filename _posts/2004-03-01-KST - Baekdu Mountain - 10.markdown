@@ -14,7 +14,7 @@ toc_sticky: true
 ---
 
 <head>
-	<link rel="stylesheet" href="/resource/styles_kr.css">
+	<link rel="stylesheet" href="/resource/styles.css">
 </head>
 
 posted: {{ page.date| date: "%d-%b-%Y" }}

@@ -8,25 +8,38 @@ permalink: /about/
 	<link rel="stylesheet" href="/resource/styles.css">
 </head>
 
-<p>
-I am Co-founder / CTO - AI Technology & Product Strategy @ Erudio Bio, Inc.
-</p>
+<h1 id="author">이영록(李永綠)</h1>
 
-<p>
-I specialize in Artificial Intelligence (AI) and Convex Optimization, leading cutting-edge projects across diverse sectors including semiconductor design, strategic marketing, e-commerce, industrial AI, and biotech. My focus is on leveraging the latest in Large Language Models (LLM) and Generative AI (GenAI) to drive business innovation, predict industry trends, and assess their broad impacts on society, economy, and policy.
-</p>
+<ul>
+<li>
+1945년 - 전남 장흥에서 태어남
+</li><li>
+광주고등학교, 서울대 문리대,
+</li><li>
+연세대 경영대학원 졸업(경제학 석사)
+</li><li>
+1969~ 75년 - 동아일보 기자
+</li><li>
+1978~2005년
+-
+대한상공회의소  산업부장, 산업조사 담당이사, 총무이사, 상무이사 겸 관리본부장, 서울상공회의소 사무국장, 기획관리 담당 상무이사, 대한상공 회의소 상의역
+</li><li>
+1990~ 92년 - 서울산업대학교 강사(경영학/노사관계론)
+</li><li>
+1997년~ - 최저임금 심의위원(노동부),통계위원회 위원(통계청),
+사회간접자본 민자유치 심의위원(건설교통부),
+기업활동규제완화 심의위원(산업자원부),
+지구환경분과위원회 위원(환경부) 역임
+</li><li>
+2002년~ - 한국규제학회 감사
+</li><li>
+2004년 - 한국방송공사(KBS) 경영평가위원,
+방송위원회 방송심의위원,
+안종필자유언론상 심사위원
+</li><li>
+2005~2008년 - 한국토지공사 비상임이사
+</li><li>
+2007년~  - 사단법인 다산연구소 이사(현)
+</li>
+</ul>
 
-<p>
-I actively contribute to state and government policy-making on AI and semiconductor technology, considering geopolitical dynamics among key global players like the US, China, Japan, Taiwan, and South Korea.
-</p>
-
-<p>
-I also dedicate to fostering knowledge transfer and innovation
-by serving as Adjunct Professor at Sogang University,
-Advisory Professor at DGIST,
-and Network Expert at Gerson Lehrman Group.
-</p>
-
-<p>
-My Life Goal, though, is to secure a future for all, where health, safety, liberty, and equity are paramount.
-</p>

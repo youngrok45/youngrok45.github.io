@@ -40,6 +40,7 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 <!--img src="/assets/images/canada-2019/chawon-suheun-02.png"-->
 
 <img src="/assets/images/canada-2019/gary-point-park.png">
+<br>
 
 밴쿠버 공항 남쪽, 리치몬드의 남서쪽 Chatham지구와 Moncton Street 사이의 Steveston Village 역사촌에 있는 Gary Point Park에서는 비행기들이 쉼 없이 오르락내리락 하는 모습을 볼 수 있고, 해질녘이면 하늘이 곱게 물들어 아름다운 일몰을 구경할 수 있다는 곳이다.
 

@@ -3,6 +3,8 @@ main:
     url: /about
   - title: "Blog"
     url: /posts
+  - title: "TODO List"
+    url: /todo-list
 #  - title: "Books"
 #    url: /books
 #  - title: "Lectures"

@@ -41,7 +41,7 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 
 <h1 id="15-Jul-2019">15-Jul-2019</h1>
 
-<7월 15일>은 시차 적응을 하기 위해서 집에서 휴식을 취하기로 했고, <7월 16일>은 서은이와 함께 서은이가 다니는 초등학교 주변의 Diefenbaker Forest 산책을 했다. 그 사이 희영이와 채원이 모녀는 원래 계획대로 밴쿠버 다운타운에 있는 3주간 짜리 영어교육 프로그램 ILSC(International Language School Canada - ? )에 참여했다.
+<7월 15일>은 시차 적응을 하기 위해서 집에서 휴식을 취하기로 했고, <7월 16일>은 서은이와 함께 서은이가 다니는 초등학교 주변의 Diefenbaker Forest 산책을 했다. 그 사이 희영이와 채원이 모녀는 원래 계획대로 밴쿠버 다운타운에 있는 3주간 짜리 영어교육 프로그램 ILSC(International Language Schools of Canada)에 참여했다.
 
 <h1 id="17-Jul-2019">17-Jul-2019</h1>
 

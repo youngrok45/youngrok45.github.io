@@ -1,6 +1,6 @@
 ---
 title: CANADA 2019 여름, WEST to EAST (2019.07.14 ~ 07.19)
-date: 2019-07-14
+date: 2019-12-18 01:00
 categories:
  - blog
 tags:

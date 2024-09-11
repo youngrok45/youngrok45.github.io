@@ -1,6 +1,6 @@
 ---
 title: CANADA 2019 여름, WEST to EAST (2019.08.10)
-date: 2019-08-10
+date: 2019-12-18 08:00
 categories:
  - blog
 tags:

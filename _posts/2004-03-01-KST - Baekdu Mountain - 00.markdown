@@ -7,7 +7,7 @@ tags:
  - travel
  - family
  - jaeju
-toc: true
+toc: false
 toc_label: "목차"
 toc_icon: "cog"
 toc_sticky: true

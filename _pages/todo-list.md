@@ -22,4 +22,26 @@ permalink: /todo-list/
 	</li>
 	</ul>
 </li>
+<li>
+	이력 업데이트
+	<ul>
+	<li>
+		priority - high
+	</li>
+	<li>
+		written on 10-Sep-2024 PDT
+	</li>
+	</ul>
+</li>
+<li>
+	insert photos to posts about Canada trip in 2018
+	<ul>
+	<li>
+		priority - high
+	</li>
+	<li>
+		written on 10-Sep-2024 PDT
+	</li>
+	</ul>
+</li>
 </ul>

@@ -1,6 +1,6 @@
 ---
 title: TRIP TO CANADA escape from heat wave (2018.07.26 ~ 07.29)
-date: 2018-07-26
+date: 2018-12-15 4:00
 categories:
 - blog
 tags:

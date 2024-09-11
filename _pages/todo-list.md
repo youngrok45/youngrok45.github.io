@@ -34,13 +34,16 @@ permalink: /todo-list/
 	</ul>
 </li>
 <li>
-	insert photos to posts about Canada trip in 2018
+	<s>insert photos to posts about Canada trip in 2018</s>
 	<ul>
 	<li>
 		priority - high
 	</li>
 	<li>
 		written on 10-Sep-2024 PDT
+	</li>
+	<li>
+		DONE on 10-Sep-2024 PDT
 	</li>
 	</ul>
 </li>

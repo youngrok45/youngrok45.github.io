@@ -104,3 +104,8 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 
 이영록
 
+
+<figure id="photo-book-cover">
+	<img src="/assets/images/baek-du-to-hanla/book-cover.jpeg">
+</figure>
+

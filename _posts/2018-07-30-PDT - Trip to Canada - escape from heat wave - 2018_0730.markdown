@@ -120,9 +120,11 @@ Lynn Canyon Valley를 벗어난 다음 귀로에 노스밴쪽으로 나와 가�
 
 부두에는 출항 대기를 하고 있는 온갖 요트들이 굴비(?)처럼 묶여있는 요트 정박장이 좋은 사진거리가 되어주고 있고, 바다를 바로 바라보면서 먹고 마실 수 있는 바닷가 널찍한 노천 카페는 인파로 붐볐다. 각국의 음식들을 파는 레스트랑들도 많이 눈에 띄었다. 군데군데 기념품 가게들도 자리를 차지하고서 손님들의 눈길을 끌기도 했다.
 
+<div class="fig-container">
 <figure id="photo-Granville-Island-01">
 	<img src="/assets/images/canada-2018/Granville-Island-01.png">
 </figure>
+</div>
 
 주말이라 사람과 자동차가 넘쳐나 주차하느라 한참 애를 먹고, 그 사이 이곳에서 만나기로 한 희영. 채원이와도 연락이 닿아 반갑게 해후했다. 가까운 가족사이라도 가끔은 떨어져 지내야 다시 만나는 정감을 느낄 수가 있을 성 싶었다.
 
@@ -130,15 +132,19 @@ Lynn Canyon Valley를 벗어난 다음 귀로에 노스밴쪽으로 나와 가�
 
 바닷가 노천 까페의 벤치에 앉아서 지구촌 곳곳에서 모여든 사람들과 같은 공간에서 먹고 마시고 바다와 사람과 동네구경을 하면서 주말 오후를 여유롭게 보냈다.
 
+<div class="fig-container">
 <figure id="photo-Granville-Island-02">
 	<img src="/assets/images/canada-2018/Granville-Island-02.png">
 </figure>
+</div>
 
 아이들이 먹고 놀고 있는 사이 아내와 둘이서 자리를 떠서 부두 주변을 한 바퀴 돌아보고, 항구에 정박해 있는 배와 요트, 그리고 멋들어진 아치형 다리를 배경으로 사진도 몇 장 찍었다.
 
+<div class="fig-container">
 <figure id="photo-Granville-Island-03">
 	<img src="/assets/images/canada-2018/Granville-Island-03.png">
 </figure>
+</div>
 
 사람들이 붐비는 까페 광장을 벗어나 골목으로 나오다가 길거리에서 버스킹을 하는 뮤지션도 만나 연주하는 것도 한참 들어주었다. 내 귀에는 상당한 수준으로 느껴졌다. 저런 이들이 운을 타면 이름도 얻고 돈도 벌 수 있겠지. 하늘엔 별이 무수하지만 정작 내 별이 없다는 게 세상사의 이치인 것을...  채원인가가 돈 통에 얼마인가를 넣었다.
 

@@ -1172,12 +1172,14 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 
 관람관 안은 휴지통 하나 없는데도 아주 청결했다. 이상하다 생각해서 “휴지통을 왜 두지 않느냐”고 물었더니 “자기 쓰레기는 자기가 가지고 가야지요.” 라고 당연하다는 듯이 대답했다.
 
+<div class="fig-container">
 <figure>
 	<img src="/assets/images/baek-du-to-hanla/dong-ah-newspaper.png">
 	<figcaption>
 		순금으로 주조한 동아일보 호외
 	</figcaption>
 </figure>
+</div>
 
 
 <h3 id="phone-call">

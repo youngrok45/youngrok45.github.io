@@ -46,16 +46,17 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 
 아브라함 평원에서의 전쟁은 캐나다에 대한 지배권을 결정하는 역사적인 전쟁이었다. 현재 이곳에는 승리자와 패배자, 양국을 대표하는 두 장군의 동상과 기념비가 함께 세워져 있다. 기념비에는 다음과 같이 쓰여 있다. “Valor gave them a common death, history a common fame, and posterity a common monument(용기는 그들에게 같은 죽음을, 역사에는 같은 명예를, 후대에는 같은 기념비를 갖게 했다.)”
 
+<div class="img-container">
 <img src="/assets/images/canada-2019/toronto-12.png" id="toronto-12">
-<br>
+</div>
 
 퀘벡 시티의 또 하나의 특징은 북아메리카에서 유일하게 성벽으로 둘러싸인 성곽(Fort)도시라는 점이다. 프랑스와의 전쟁에서 퀘벡 지역을 장악한 영국은 미국과의 전쟁에서 이곳을 지키기 위해 1765년부터 성벽을 쌓기 시작했다. 이 성벽은 1957년 퀘벡 역사지구로 지정되어 관리되기 시작했다. 전체 길이 4.6km인 이 성벽은 해변 벼랑을 따라가며 여행자들에게 전망 좋은 산책로를 제공함과 동시에 도시를 로어타운, 어퍼타운, 신시가지, 구시가지로 구분하는 역할을 해주었다. 구조상 도시의 확대를 방해할 수밖에 없는 성곽을 도시 안에 품음으로써 옛 도시의 모습을 상상하게 해주는 한편 도시에 입체감을 부여한 것이다.
 
 생 장 (Saint. Jean) 거리나 생 루이(Saint. Louis) 거리와 성벽이 만나는 곳에 성문이 있다. 이 성문 옆의 돌계단을 따라가면 성벽으로 올라설 수 있는데, 성벽을 따라 도시 전체를 한 바퀴 둘러볼 수 있도록 되어 있다. 퀘벡 시는 허물어진 성곽을 최대한 복원시키고, 일부 구간은 허물어진 터를 보존하여 성곽이 어떻게 이어지는지를 알 수 있게 해주고 있다. 이러한 성곽을 따라 걸으면서 퀘벡 시티를 한 바퀴 둘러보는 것도 퀘벡을 아는 좋은 방법이라  할 것이다.
 
-
-<img src="/assets/images/canada-2019/toronto-13.png" id="toronto-13">
-<br>
+<div class="img-container">
+<img width="60%" src="/assets/images/canada-2019/toronto-13.png" id="toronto-13">
+</div>
 
 퀘벡시내로 들어서면서 느껴지는 것은 좁은 평면에 모든 보여줄 것을 다 함께 꽉 채워서 늘어놓았다는 사실이었다. 그만큼 모든 조형물 하나하나가 다 나름의 스토리를 담고 있어서다. 하루라는 짧은 시간에 모두를 보여주려는 패키지 투어라는 제약 때문에 말 그대로 주마간산이었던 점이 못내 아쉬웠다. 하루쯤이라도 더 여유가 있었더라면, 지금보다 조금만이라도 젊었다면 다음 기회를 엿볼 수도 있을 텐데 하는 ...
 
@@ -72,42 +73,60 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 
 그런데 갑자기 비가 쏟아졌다. 몸도 좀 피곤하고 비도 피할 겸 해서 오늘 묵을 호텔이 그리 멀지 않아 일단 호텔 체크인부터 했다. 희영네는 비가 그쳤으니 퀘벡의 야경이라도 볼 요량으로 밖으로 나가고 싶어 했지만 우리 내외는 날씨도 좀 을씨년스럽고 컨디션도 별로여서 그냥 호텔에 머물기로 했다. 그 사이 희영네는 퀘벡의 야경을 맛보면서 사진도 찍을 겸 해서 외출을 한 것이다. 나중에 보여준 여행사진으로 미루어 그 사이 ‘도깨비’ 촬영 현장 등지를 두루 둘러보고 인증 사진도 많이 찍어 온 것 같았다.
 
+<div class="img-container">
 <img src="/assets/images/canada-2019/toronto-14.png" id="toronto-14">
-<br>
+</div>
 
+<div class="img-container">
 <img src="/assets/images/canada-2019/toronto-15.png" id="toronto-15">
-<br>
+</div>
 
+<div class="img-container">
 <img src="/assets/images/canada-2019/toronto-16.png" id="toronto-16">
-<br>
+</div>
+
+<div class="img-container">
 
 <img src="/assets/images/canada-2019/toronto-17.png" id="toronto-17">
-<br>
+</div>
+
+<div class="img-container">
 
 <img src="/assets/images/canada-2019/toronto-18.png" id="toronto-18">
-<br>
+</div>
+
+<div class="img-container">
 
 <img src="/assets/images/canada-2019/toronto-19.png" id="toronto-19">
-<br>
+</div>
+
+<div class="img-container">
 
 <img src="/assets/images/canada-2019/toronto-20.png" id="toronto-20">
-<br>
+</div>
+
+<div class="img-container">
 
 <img src="/assets/images/canada-2019/toronto-21.png" id="toronto-21">
-<br>
+</div>
+
+<div class="img-container">
 
 <img src="/assets/images/canada-2019/toronto-22.png" id="toronto-22">
-<br>
+</div>
+
+<div class="img-container">
 
 <img src="/assets/images/canada-2019/toronto-23.png" id="toronto-23">
-<br>
+</div>
 
 도깨비가 드나들었다는 골목길의 검붉은 문짝은 이곳을 찾는 한국인들의 인증 샷 명소다. 한국인이 아니라도 도깨비 드라마를 아는 외국인들도 특별하달 것도 없는 이곳에서 카메라 셔터를 누른다. 오히려 영문을 모르는 관광객들이 고개를 갸우뚱하며 지나간다. 한류문화 세계화의 한 현장이랄까.
 
 가난한 아랫동네 사람들이 물건을 운반하느라 가파른 골목 계단 길을 무거운 짐을 지고 부자들이 사는 윗동네로 올라가다 목이 부러진다는 비유에서 일컬어졌다는 목 부러지는 계단 길도 한번쯤 숨을 헐떡이면서 올라 봐도 좋을 듯하다. 당시 서민들의 삶의 애환이 떠올려질 듯하다. 이밖에도 화가의 거리. 노트르담 성당도 그냥 지나치기 아까운 곳이다.
 
+<div class="img-container">
 <img src="/assets/images/canada-2019/toronto-24.png" id="toronto-24">
-<br>
+</div>
 
 퀘벡 시티의 거리를 걷다 보면 눈길을 끄는 프레스코화를 종종 만날 수 있다. 그중에서도 가장 화려하고 눈길을 끄는 프레스코화는 ‘퀘벡의 프레스코화(La Fresque des Quebecois)이다. 구시가지 노트르담 거리와 코테 드 라 몽탄 사이에 위치한 건물 벽면에 그려진 이 프레스코 벽화는 캐나다와 프랑스 출신의 아티스트 12명이 연 2,550시간 공동 작업을 했다고 한다. 벽면을 실제 건물과 이어지게 그려 착시효과를 일으키는 등 보는 이의 입가에 웃음을 흘리게 해주는 재미있는 벽화이다. 1990년에 완성되었다고 한다. 5층 정도 되는 높이에 그려 넣은 실물크기의 이 벽화는 길의 무늬와도 교묘하게 연결되어 그림임을 알아채기가 쉽지 않다. 이 그림 속에는 퀘벡에 처음 발을 디딘 프랑스의 탐험가 자크 까르띠에, 퀘벡에 처음 정착한 사뮈엘 드 샹플랭, 퀘벡 최초의 주교 라발, 미시시피 강을 발견한 항해자 루이 줄리엣 등 퀘벡 역사에서 중요한 역사적 인물 16명이 지금 살고 있는 사람들의 생활 모습과 함께 섞여 그려져 있다. 그만큼 역사라는 것이 끊어진 과거의 일이 아니라 현재와 이어지고 있음을 한 장의 그림으로 보여주고 있다 할 것이다. 퀘벡의 겨울이 너무 추워서 북쪽으로는 창을 내지 않았고, 그렇게 텅 빈 벽에 그림을 그리기 시작한 것이 이 아름다운 프레스코화들의 기원이라고.
 

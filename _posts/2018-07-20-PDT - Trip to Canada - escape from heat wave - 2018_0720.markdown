@@ -43,17 +43,21 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 
 ‘Canada Place’ 근처 돼지 바비큐집에서 푸짐한 저녁식사를 했다. 이번에도 서은네가 쏘았다. 민폐(?)가 심한 거 아닐까?
 
+<div class="fig-container">
 <figure id="photo-canada-place-01">
 	<img src="/assets/images/canada-2018/canada-place-01.png">
 </figure>
+</div>
 
 밴쿠버 워터프론트 중심가에 있는 캐나다 플레이스는 1986년 만국박람회를 기념하기 위해 지어진 밴쿠버의 상징과 같은 핫 플레이스라고. 
 
 흰 돛 5개를 달고 있는 배가 정박한 모습을 하고 있는 캐나다 플레이스는 캐나다사람들 뿐 아니라 많은 관광객들이 이곳을 찾는다. 캐나다 플레이스 안에는 컨벤션센터, 팬 퍼시픽 호텔, 세계 최초의 아이맥스 영화관이 있다. 그 외에 레스토랑이나 카페, 다양한 숍이 자리하고 있다. 또한 건물 주위에 산책로, 크루즈 선박 터미널이 있고, 기네스북에 등재된 세계에서 가장 큰 우체통 등 볼거리가 풍성하다.
 
+<div class="fig-container">
 <figure id="photo-canada-place-02">
 	<img src="/assets/images/canada-2018/canada-place-02.png">
 </figure>
+</div>
 
 바비큐하우스는 서은 아빠가 점심 때 회사 사람들과 회식을 하면서 점 찍어둔 집이라고. 먹고 남은 음식은 포장을 해서 가져왔는데, 희영네와 우리가 시애틀 여행을 간 사이에 맛있게(?) 해치웠다는 후문이다.
 
@@ -93,21 +97,29 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 
 한 가지 유감스러운 것은 밴쿠버 민박 주인(?) 서은이 아빠가 손님들 짐을 숙소로 올리느라 무리가 됐던지 허리 병이 재발해서 부차트 가든 구경을 제대로 못한 점. 엄마가 서울에서 지어온 정형외과 약을 나눠 주었다. 제발 통증이 가라앉기를 바라면서.
 
+<div class="fig-container">
 <figure id="photo-butchart-01">
 	<img src="/assets/images/canada-2018/butchart-01.png">
 </figure>
+</div>
 
+<div class="fig-container">
 <figure id="photo-butchart-02">
 	<img src="/assets/images/canada-2018/butchart-02.png">
 </figure>
+</div>
 
+<div class="fig-container">
 <figure id="photo-butchart-03">
 	<img src="/assets/images/canada-2018/butchart-03.png">
 </figure>
+</div>
 
+<div class="fig-container">
 <figure id="photo-butchart-04">
 	<img src="/assets/images/canada-2018/butchart-04.png">
 </figure>
+</div>
 
 대충 대충 돌아보았지만 부차트 가든 안을 걷는 거리가 꽤 되어선지 다들 피곤해 하는 눈치여서 서둘러 숙소로 예약해둔 Chateau Victoria Hotel로 갔다. 호텔은 언덕바지 전망이 괜찮은 곳에 서 있었고 외양도 그럴 듯 했다. 저녁은 호텔 체크인 할 때 보아 둔 그리스 풍 레스토랑 Millos에서 8인 가족만찬으로 했다. 전혀 그리스 답지 않은 빅토리아에서 그리스 음식이라니. 분위기상으로는 오래 전에 잠깐 다녀왔던 그리스 비슷한 것이 엿보였다.
 
@@ -120,13 +132,17 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 
 대신 딸 사위와 채원, 서은이랑 이너 하버와 주청사, 임프레스호텔과 이너 하버를 배경으로 찍은 여러 장의 가족사진이 뒷날 그곳을 다시금 상기시켜 줄 것 같았다. 알펜 호온(?)을 불어주는 이 나라 할아버지와 함께 찍은 사진도.
 
+<div class="fig-container">
 <figure id="photo-Legislative-Assembly-of-British-Columbia-01">
 	<img src="/assets/images/canada-2018/Legislative-Assembly-of-British-Columbia-01.png">
 </figure>
+</div>
 
+<div class="fig-container">
 <figure id="photo-Legislative-Assembly-of-British-Columbia-02">
 	<img src="/assets/images/canada-2018/Legislative-Assembly-of-British-Columbia-02.png">
 </figure>
+</div>
 
 &lt;BC주 청사&gt;. 빅토리아 다운타운은 영국적인 분위기가 가득하다. 이층 버스와 마차 등이 옛 영국을 방문한 듯 이국적 풍광을 펼쳐내기 때문이다. 빅토리아 내항 이너하버에 페리가 도착하면 유람선이 정박해 있고 수상비행기가 뜨고 내리는 장면을 볼 수 있다. 여행자들이 몰리는 이너하버에서는 길거리 공연이 펼쳐지고 마차가 돌아다니며 여행자들의 눈과 귀를 즐겁게 한다. 브리티시컬럼비아 주의사당의 당당한 모습도 이너하버에서 볼 수 있다. 주의사당은 무료 가이드투어를 해주고 있지만 우린 시간이 맞지 않아서 포기했다.
 
@@ -137,7 +153,9 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 
 &lt;호텔 임프레스(FAIRMONT EMPRESS HOTEL)&gt;는 세운지 1백년이 넘은 영국풍의 호텔이다. 이너하버 둑에 있는 4성급 호텔로 1908년에 세워졌다. 중세시대 성 같은 고풍스러운 건축미를 간직한 최고의 호텔로 5백 개의 객실을 보유하고 있다. 들어 가보지는 못했지만 우아한 외관은 물론 건물 안의 인테리어가 영국 왕실의 그것처럼 화려하고 중후하다고 한다. 장인정신이 담겨 만들어진 수공예 가구들과 반짝이는 원목 플로어가 돋보이는 로비를 비롯하여 비즈니스 센터, 연회 홀, 스파 룸, 수영장, 기프트 샵, 라운지 바, 정원, 피트니스 클럽, 사우나, ATM 등의 부대시설들이 투숙객들 스스로를 우쭐하게 해주고도 남을 듯 싶다. 1박 2일의 빅토리아 섬 관광을 끝내고, 어제 떠나왔던 길을 역순으로 돌아서 리치먼드에 무사(?) 귀환했다. 서은이 아빠 허리가 좀 호전되지 않았을까 기대하면서.
 
+<div class="fig-container">
 <figure id="photo-FAIRMONT-EMPRESS-HOTEL">
 	<img src="/assets/images/canada-2018/FAIRMONT-EMPRESS-HOTEL.png">
 </figure>
+</div>
 

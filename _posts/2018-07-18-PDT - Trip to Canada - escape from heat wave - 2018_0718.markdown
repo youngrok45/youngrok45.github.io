@@ -85,9 +85,11 @@ MBC TV가 7월 초 이곳을 무대로 한 'MBC스페셜'- 옥류관 서울 1호
 
 통조림 공장들의 흔적은 사적지로 지정된 ‘더 걸프 오브 조지아 캐너리’(The Gulf of Georgia)에서 확인할 수 있다. 이곳에는 1930년대 연어 통조림 제작 과정이 기록으로 남아있다.
 
+<div class="fig-container">
 <figure id="photo-gulf-of-georgia">
 	<img src="/assets/images/canada-2018/gulf-of-georgia.png">
 </figure>
+</div>
 
 이곳 한인사회에서는 스티브스톤의 캐너리 파머스 마켓(Cannery Farmer's Market)은 ‘아담한 어시장’의 동의어로 통한다. 바다에서 갓 건져 올린 수산물을 비교적 싼 가격에 구입할 수 있다는 점에서, 인기를 끌어왔는데, 특히 새우가 신선하다. 햇살 따스한 날에 통나무 좌판 위에 걸터앉아 서늘한 바닷바람을 즐기거나 가게에서 주문해온 피시 앤 칩스를 맛보는 시간은 입과 마음이 행복한 시간이다.
 

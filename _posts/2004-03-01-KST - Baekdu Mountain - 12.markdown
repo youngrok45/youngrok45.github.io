@@ -29,6 +29,7 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 사진
 </h1>
 
+<div class="fig-container">
 <figure>
 	<img src="/assets/images/baek-doo/departure.png">
 	<figcaption>"민족의 영산, 백두산으로 안전하고 편안하게 다녀오십시오." 남북교차관광단 109명은 2000년 9월 22일 오후 1시 민간인으로는 처음으로 서울(김포)~평양 서해 직항로를 거쳐 방북길에 올랐다.</figcaption>
@@ -187,3 +188,4 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 		평양랭면을 비롯해 평양온면, 대동간 숭어국, 송어회로 유명한 옥류관. 이곳에서 하루에 내는 국수만도 1만 2,000 그릇이라고 한다.
 	</figcaption>
 </figure>
+</div>

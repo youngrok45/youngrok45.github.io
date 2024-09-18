@@ -47,8 +47,9 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 
 4일 째인 <7월 17일>에는 서은이가 방학 중 다니고 있는 Richmond Community Center의 미술캠프에 서은이를 데려다 주고, 서은이 엄마랑 작년에도 가봤던 Community Center 인근 Tim Hortens에 가서 커피도 마시면서 여유를 부려봤다. 서은이 수업 끝날 때맞춰서 함께 작년에도 몇 번 들렀던 Steveston 바닷가 피자가게에서 피시 앤 칩스를 픽해 왔다. 수영이가 ‘인생 피자’라고 극찬했던 그 피자다. 수영이가 함께하지 못해 아쉬웠다.
 
+<div class="img-container">
 <img src="/assets/images/canada-2019/pizza.png">
-<br>
+</div>
 
 서은이와 우리 내외는 더위가 좀 사그러드는 틈을 내서 오늘도 Diefenbaker Forest를 산책했다. 서은이네 집에서 왕복 20여분 걸리는 곳이다.
 

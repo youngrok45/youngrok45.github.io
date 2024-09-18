@@ -8,7 +8,11 @@ permalink: /about/
 	<link rel="stylesheet" href="/resource/styles.css">
 </head>
 
-<h1 id="author">이영록(李永綠)</h1>
+[나의 이야기 - 이영록李永綠]({{ site.baseurl }}{% post_url 2024-09-18-PDT - My Story - 01 %})
+
+
+
+<!--h1 id="author">이영록(李永綠)</h1>
 
 <ul>
 <li>
@@ -41,5 +45,5 @@ permalink: /about/
 </li><li>
 2007년~  - 사단법인 다산연구소 이사(현)
 </li>
-</ul>
+</ul-->
 

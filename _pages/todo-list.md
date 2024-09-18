@@ -12,39 +12,107 @@ permalink: /todo-list/
 
 <ul>
 <li>
-	백두고원에서만난 희망의 돋을 풍경 - 사진 글 중에 끼워 넣기
+	발칸 여행기 upload
 	<ul>
+	<li>
+		owner - 성희
+	</li>
 	<li>
 		priority - medium
 	</li>
 	<li>
-		written on 8-Sep-2024 KST
+		written @ 17-Sep-2024 PDT
 	</li>
 	</ul>
 </li>
+
 <li>
-	이력 업데이트
+	아버님 소개글 revision
 	<ul>
+	<li>
+		owner - 아버님 &amp; 성희
+	</li>
 	<li>
 		priority - high
 	</li>
 	<li>
-		written on 10-Sep-2024 PDT
+		written @ 17-Sep-2024 PDT
 	</li>
 	</ul>
 </li>
+
+<li>
+	백두고원에서만난 희망의 돋을 풍경 - 사진 글 중에 끼워 넣기
+	<ul>
+	<li>
+		owner - 성희 &amp; 아버님
+	</li>
+	<li>
+		priority - low
+	</li>
+	<li>
+		written @ 8-Sep-2024 KST
+	</li>
+	</ul>
+</li>
+
+<font color="#bbb">
+<li>
+	아버님 소개글 작성
+	<ul>
+	<li>
+		owner - 성희
+	</li>
+	<li>
+		priority - high
+	</li>
+	<li>
+		written @ 16-Sep-2024 PDT
+	</li>
+	<li>
+		DONE @ 17-Sep-2024 PDT
+	</li>
+	</ul>
+</li>
+</font>
+
+<font color="#bbb">
+<li>
+	<s>이력 업데이트</s>
+	<ul>
+	<li>
+		owner - 성희
+	</li>
+	<li>
+		priority - high
+	</li>
+	<li>
+		written @ 10-Sep-2024 PDT
+	</li>
+	<li>
+		CANCELLED @ 17-Sep-2024 PDT
+	</li>
+	</ul>
+</li>
+</font>
+
+<font color="#bbb">
 <li>
 	<s>insert photos to posts about Canada trip in 2018</s>
 	<ul>
 	<li>
+		owner - 성희
+	</li>
+	<li>
 		priority - high
 	</li>
 	<li>
-		written on 10-Sep-2024 PDT
+		written @ 10-Sep-2024 PDT
 	</li>
 	<li>
-		DONE on 10-Sep-2024 PDT
+		DONE @ 10-Sep-2024 PDT
 	</li>
 	</ul>
 </li>
+</font>
 </ul>

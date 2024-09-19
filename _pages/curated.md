@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Curated
+title: Curated Articles
 permalink: /curated
 toc: true
 toc_label: "목차"

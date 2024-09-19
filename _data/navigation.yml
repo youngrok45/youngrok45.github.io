@@ -7,7 +7,7 @@ main:
 #    url: /categories
   - title: "Tags"
     url: /tags
-  - title: "Curated Articles"
+  - title: "Curated"
     url: /curated
   - title: "TODO List"
     url: /todo-list

@@ -35,7 +35,7 @@ permalink: /todo-list/
 	아버님 소개글 revision
 	<ul>
 	<li>
-		owner - 아버님 &amp; 성희
+		owner - 이영록 &amp; 성희
 	</li>
 	<li>
 		priority - high
@@ -50,7 +50,7 @@ permalink: /todo-list/
 	백두고원에서만난 희망의 돋을 풍경 - 사진 글 중에 끼워 넣기
 	<ul>
 	<li>
-		owner - 성희 &amp; 아버님
+		owner - 성희 &amp; 이영록
 	</li>
 	<li>
 		priority - low

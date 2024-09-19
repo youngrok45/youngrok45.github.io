@@ -11,8 +11,9 @@ permalink: /todo-list/
 <h1 id="todo-list">TODO List</h1>
 
 <ul>
+<font color="#bbb">
 <li>
-	발칸 여행기 upload
+	<s>발칸 여행기 upload</s>
 	<ul>
 	<li>
 		owner - 성희
@@ -23,8 +24,12 @@ permalink: /todo-list/
 	<li>
 		written @ 17-Sep-2024 PDT
 	</li>
+	<li>
+		DONE @ 18-Sep-2024 PDT
+	</li>
 	</ul>
 </li>
+</font>
 
 <li>
 	아버님 소개글 revision
@@ -58,7 +63,7 @@ permalink: /todo-list/
 
 <font color="#bbb">
 <li>
-	아버님 소개글 작성
+	<s>아버님 소개글 작성</s>
 	<ul>
 	<li>
 		owner - 성희

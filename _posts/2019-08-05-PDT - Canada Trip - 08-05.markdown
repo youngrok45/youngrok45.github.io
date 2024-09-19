@@ -6,7 +6,7 @@ categories:
 tags:
  - travel
  - family
- - jaeju
+ - canada
 toc: true
 toc_label: "목차"
 toc_icon: "cog"

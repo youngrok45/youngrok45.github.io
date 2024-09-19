@@ -4,6 +4,7 @@ date: 2024-09-18 00:17
 categories:
  - blog
 tags:
+ - personal
  - biography
 toc: true
 toc_label: "목차"

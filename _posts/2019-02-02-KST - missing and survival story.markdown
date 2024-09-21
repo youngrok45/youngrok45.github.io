@@ -17,22 +17,9 @@ toc_sticky: true
 <head>
 <link rel="stylesheet" href="/resource/styles.css">
 <style>
-	.container {
-		display: flex;
-		align-items: flex-start;
-		gap: 20px;
-		max-width: 800px;
-		margin: 0 auto;
-	}
-	.image {
-		flex-shrink: 0;
-	}
-	.text {
-		flex-grow: 1;
-	}
 	.float-image {
-		float: left; /* or right */
-		margin: 10px; /* Add some margin around the image */
+		float: right;
+		margin-left: 20px;
 	}
 </style>
 </head>

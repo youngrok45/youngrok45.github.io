@@ -34,6 +34,10 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 
 세정사중양절, 인천이종식기.
 
+<div class="centered-container">
+	<img width="95%" src="/assets/images/Qingyuan Notes.png">
+</div>
+
 
 <h1 id="korean">청원기(淸園記)</h1>
 

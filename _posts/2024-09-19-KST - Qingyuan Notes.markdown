@@ -1,7 +1,7 @@
 ---
-title: 청원기 - 淸 園 記
+title: 청원기淸 園 記
 date: 2024-09-19 06:00
-last_modified_at: Mon Sep 30 14:26:44 PDT 2024
+last_modified_at: Mon Sep 30 16:31:25 PDT 2024
 categories:
 - blog
 tags:
@@ -31,7 +31,7 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 	<img width="95%" src="/assets/images/Qingyuan Notes.png">
 </div>
 
-<h1 id="qingyuan-notes">청원기淸園記</h1>
+<h1 id="main-text">본문</h1>
 
 <div class="translation-container">
 <p>

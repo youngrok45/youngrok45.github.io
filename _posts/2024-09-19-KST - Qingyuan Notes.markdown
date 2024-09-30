@@ -1,6 +1,7 @@
 ---
 title: 청원기 - 淸 園 記
 date: 2024-09-19 06:00
+last_modified_at: Mon Sep 30 14:26:44 PDT 2024
 categories:
 - blog
 tags:
@@ -24,7 +25,7 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 내 선친 청원 이수흠의 집안의 어르신이며
 선친과 호형호제했던 이종식선생이 선친의 호를 보고 듣고 나서
 지어준 청원에 대한 호기號記를
-나의 광주고 2년 선배인 한문학의 대가 성균관대 경인 임형택 명예교수가 역주譯註 했다.
+나의 광주고 2년 선배인 한문학의 대가 성균관대 경인絅人 임형택 명예교수가 역주譯註 했다.
 
 <div class="centered-container">
 	<img width="95%" src="/assets/images/Qingyuan Notes.png">

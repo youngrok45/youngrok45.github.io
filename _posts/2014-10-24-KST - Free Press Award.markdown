@@ -68,3 +68,15 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 심사위원장:  이영록
 
 심사위원: 황의방 박종만 조양진 이기중 조강래
+
+<hr>
+
+<div class="img-container">
+<img width="60%" src="/assets/images/free press/i-cannot-write-wrong-in-the-face-of-history.png">
+</div>
+
+<div class="img-container">
+<img width="60%" src="/assets/images/free press/free-press-award.png">
+</div>
+
+<hr>

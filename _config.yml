@@ -72,9 +72,12 @@ author:
   name             : "Youngrok Lee"
   avatar           : "/assets/images/bio-photo-1-rotated.png"
   bio              : ""
-  location         : "Seoul, South Korea"
+#  location         : "Seoul, South Korea"
   email            : youngrok45@gmail.com
   links:
+    - label: "South, South Korea"
+      icon: "fas fa-map-marker-alt"
+      url: "https://naver.me/x9BrQbEP"
 #    - label: "Email"
 #      icon: "fas fa-fw fa-envelope-square"
 #      url: "mailto:youngrok45@gmail.com"

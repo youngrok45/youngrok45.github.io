@@ -73,58 +73,37 @@ author:
   avatar           : "/assets/images/bio-photo-1-rotated.png"
   bio              : ""
 #  location         : "Seoul, South Korea"
-  email            : youngrok45@gmail.com
+#  email            : youngrok45@gmail.com
   links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/youngrok45/youngrok45.github.io"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:youngrok45@gmail.com"
     - label: "Seoul, South Korea"
       icon: "fas fa-map-marker-alt"
       url: "https://naver.me/x9BrQbEP"
-#    - label: "Email"
-#      icon: "fas fa-fw fa-envelope-square"
-#      url: "mailto:youngrok45@gmail.com"
-#    - label: "CV"
-#      icon: "fab fa-fw fa-instagram"
-#      url: /resource/CV/Sunghee_Yun_CV_2.pdf
-#    - label: "LinkedIn"
-#      icon: "fas fa-fw fa-link"
-#      url: "https://www.linkedin.com/in/sungheeyun/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       url: "https://www.facebook.com/profile.php?id=100021146117689"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/youngrok45"
-#    - label: "Instagram"
-#      icon: "fab fa-fw fa-instagram"
-#      # url: "https://instagram.com/"
-#    - label: "Twitter"
-#      icon: "fab fa-fw fa-twitter-square"
-#      url: "https://twitter.com/sunghee14"
 
 
 # Site Footer
 footer:
   links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/youngrok45/youngrok45.github.io"
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:youngrok45@gmail.com"
-#    - label: "CV"
-#      icon: "fab fa-fw fa-instagram"
-#      url: /resource/CV/Sunghee_Yun_CV_2.pdf
-#    - label: "LinkedIn"
-#      icon: "fas fa-fw fa-link"
-#      url: "https://www.linkedin.com/in/sungheeyun/"
+    - label: "Seoul, South Korea"
+      icon: "fas fa-map-marker-alt"
+      url: "https://naver.me/x9BrQbEP"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       url: "https://www.facebook.com/profile.php?id=100021146117689"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/youngrok45"
-#    - label: "Twitter"
-#      icon: "fab fa-fw fa-twitter-square"
-#      url: "https://twitter.com/sunghee14"
-#    - label: "Instagram"
-#      icon: "fab fa-fw fa-instagram"
-#      # url: "https://instagram.com/"
 
 defaults:
   # _posts

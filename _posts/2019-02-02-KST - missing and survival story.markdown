@@ -15,7 +15,6 @@ toc_sticky: true
 ---
 
 <head>
-<link rel="stylesheet" href="/resource/styles.css">
 <style>
 	.float-image {
 		float: right;

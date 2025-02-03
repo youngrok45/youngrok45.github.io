@@ -4,10 +4,6 @@ title: About
 permalink: /about/
 ---
 
-<head>
-	<link rel="stylesheet" href="/resource/styles.css">
-</head>
-
 [나의 이야기 - 이영록李永綠]({{ site.baseurl }}{% post_url 2024-09-18-PDT - My Story - 01 %})
 
 

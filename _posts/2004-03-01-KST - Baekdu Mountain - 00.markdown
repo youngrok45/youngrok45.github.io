@@ -12,14 +12,8 @@ toc_icon: "cog"
 toc_sticky: true
 ---
 
-<head>
-	<link rel="stylesheet" href="/resource/styles.css">
-</head>
-
 posted: {{ page.date| date: "%d-%b-%Y" }}
 {: .notice--primary}
-
- 
 
 <h1>아, 백두산 -  백두고원에서만난 희망의 돋을 풍경</h1>
 

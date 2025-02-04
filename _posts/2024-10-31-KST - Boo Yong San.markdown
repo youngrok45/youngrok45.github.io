@@ -1,7 +1,7 @@
 ---
 title: 부용산의 기억, 아버지의 노래
 date: Thu Oct 31 12:00:00 KST 2024
-last_modified_at: Mon Feb  3 21:52:39 PST 2025
+last_modified_at: Mon Feb  3 21:59:25 PST 2025
 categories:
  - blog
 tags:
@@ -55,7 +55,7 @@ updated: {{ page.last_modified_at| date: "%d-%b-%Y" }}
 내 실력으로는 따라부르기 어려운 이 노래가 내게 느닷없이 부용산의 기억을 소환해주었다.
 
 <div class="img-container">
-<img src="/assets/images/KakaoTalk_Photo_2025-02-03-03-51-12.jpeg">
+<img src="/assets/images/Screenshot 2025-02-03 at 9.56.02 PM.png">
 </div>
 
 봉강의 평전 출판기념회가 느닷없이 내게 부용산의 기억을 불러낸 것이다.

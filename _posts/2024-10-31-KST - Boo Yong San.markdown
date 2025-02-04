@@ -1,7 +1,7 @@
 ---
 title: 부용산의 기억, 아버지의 노래
 date: Thu Oct 31 12:00:00 KST 2024
-last_modified_at: Mon Feb  3 15:17:20 KST 2025
+last_modified_at: Mon Feb  3 21:52:39 PST 2025
 categories:
  - blog
 tags:
@@ -53,6 +53,10 @@ updated: {{ page.last_modified_at| date: "%d-%b-%Y" }}
 김지하, 황석영의 애창곡으로도 알려져 있다.
 안치환이 부른 부용산을 인터넷에서 내려받아 따라불러 보았지만 잘 불러지지가 않았다.
 내 실력으로는 따라부르기 어려운 이 노래가 내게 느닷없이 부용산의 기억을 소환해주었다.
+
+<div class="img-container">
+<img src="/assets/images/KakaoTalk_Photo_2025-02-03-03-51-12.jpeg">
+</div>
 
 봉강의 평전 출판기념회가 느닷없이 내게 부용산의 기억을 불러낸 것이다.
 내가 이 노래를 기억 속에 담아 둔 것은 그 가사나 곡조보다는 ‘부용산’이라는 노래 제목 때문이었다.
